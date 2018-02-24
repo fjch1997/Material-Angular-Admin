@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\forms\\autocomplete",
+    "\\src\\app\\layout\\header",
+    "\\src\\app\\tables",
+    "\\src\\app\\tables\\data-table",
+    "\\src\\app\\tables\\responsive",
+    "\\src\\app\\tables\\static",
+    "\\src\\app\\ui",
+    "\\src\\app\\ui\\buttons",
+    "\\src\\app\\ui\\cards",
+    "\\src\\vendors"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}
